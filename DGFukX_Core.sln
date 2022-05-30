@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DGFukX", "DGFukX\DGFukX.csproj", "{2D094476-F777-48D4-A296-70915B0D12E9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DGFukX CLI", "DGFukX CLI\DGFukX CLI.csproj", "{1D8F3D62-EC71-40F7-807A-ED80E3A2CFA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DGFukX UI", "DGFukX UI\DGFukX UI.csproj", "{0E9F6C4A-F4A0-48E6-A62A-052F0DBE5D67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D094476-F777-48D4-A296-70915B0D12E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D094476-F777-48D4-A296-70915B0D12E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D8F3D62-EC71-40F7-807A-ED80E3A2CFA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D8F3D62-EC71-40F7-807A-ED80E3A2CFA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E9F6C4A-F4A0-48E6-A62A-052F0DBE5D67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E9F6C4A-F4A0-48E6-A62A-052F0DBE5D67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6BD6F35-6DAF-4081-B29C-B2315DE24FCD}
+	EndGlobalSection
+EndGlobal

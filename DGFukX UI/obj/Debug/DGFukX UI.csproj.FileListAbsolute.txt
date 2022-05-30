@@ -1,0 +1,44 @@
+C:\Users\georg\Desktop\DGFuks\DGFukX UI\bin\Debug\DGFukX UI.exe.config
+C:\Users\georg\Desktop\DGFuks\DGFukX UI\bin\Debug\DGFukX UI.exe
+C:\Users\georg\Desktop\DGFuks\DGFukX UI\bin\Debug\DGFukX UI.pdb
+C:\Users\georg\Desktop\DGFuks\DGFukX UI\obj\Debug\DGFukX_UI.Form1.resources
+C:\Users\georg\Desktop\DGFuks\DGFukX UI\obj\Debug\DGFukX_UI.Properties.Resources.resources
+C:\Users\georg\Desktop\DGFuks\DGFukX UI\obj\Debug\DGFukX UI.csproj.GenerateResource.cache
+C:\Users\georg\Desktop\DGFuks\DGFukX UI\obj\Debug\DGFukX UI.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\DGFuks\DGFukX UI\obj\Debug\DGFukX UI.exe
+C:\Users\georg\Desktop\DGFuks\DGFukX UI\obj\Debug\DGFukX UI.pdb
+C:\Users\georg\Desktop\DGFuks\DGFukX UI\bin\Debug\DGFukX CLI.dll
+C:\Users\georg\Desktop\DGFuks\DGFukX UI\bin\Debug\DGFukX.dll
+C:\Users\georg\Desktop\DGFuks\DGFukX UI\bin\Debug\DGFukX.pdb
+C:\Users\georg\Desktop\DGFuks\DGFukX UI\bin\Debug\DGFukX CLI.pdb
+C:\Users\georg\Desktop\DGFuks\DGFukX UI\obj\Debug\DGFukX UI.csproj.CopyComplete
+C:\Users\georg\Desktop\DGFuks\DGFukX UI\obj\Debug\DGFukX UI.csprojAssemblyReference.cache
+C:\Users\georg\Desktop\DGFuks\DGFukX UI\obj\Debug\DGFukX_UI.Form2.resources
+C:\Users\georg\Desktop\DGFuks\Original\Modified\DGFukX UI\bin\Debug\DGFukX UI.exe.config
+C:\Users\georg\Desktop\DGFuks\Original\Modified\DGFukX UI\bin\Debug\DGFukX UI.exe
+C:\Users\georg\Desktop\DGFuks\Original\Modified\DGFukX UI\bin\Debug\DGFukX UI.pdb
+C:\Users\georg\Desktop\DGFuks\Original\Modified\DGFukX UI\bin\Debug\DGFukX CLI.pdb
+C:\Users\georg\Desktop\DGFuks\Original\Modified\DGFukX UI\bin\Debug\DGFukX.pdb
+C:\Users\georg\Desktop\DGFuks\Original\Modified\DGFukX UI\obj\Debug\DGFukX UI.csproj.AssemblyReference.cache
+C:\Users\georg\Desktop\DGFuks\Original\Modified\DGFukX UI\obj\Debug\DGFukX_UI.Form1.resources
+C:\Users\georg\Desktop\DGFuks\Original\Modified\DGFukX UI\obj\Debug\DGFukX_UI.Form2.resources
+C:\Users\georg\Desktop\DGFuks\Original\Modified\DGFukX UI\obj\Debug\DGFukX_UI.Properties.Resources.resources
+C:\Users\georg\Desktop\DGFuks\Original\Modified\DGFukX UI\obj\Debug\DGFukX UI.csproj.GenerateResource.cache
+C:\Users\georg\Desktop\DGFuks\Original\Modified\DGFukX UI\obj\Debug\DGFukX UI.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\DGFuks\Original\Modified\DGFukX UI\obj\Debug\DGFukX UI.exe
+C:\Users\georg\Desktop\DGFuks\Original\Modified\DGFukX UI\obj\Debug\DGFukX UI.pdb
+C:\Users\georg\Desktop\DGFuks\Original\Modified\DGFukX UI\obj\Debug\DGFukX_UI.Form3.resources
+C:\Users\georg\Desktop\DGFuks\DGFukX\DGFukX UI\obj\Debug\DGFukX UI.csproj.AssemblyReference.cache
+C:\Users\georg\Desktop\DGFuks\DGFukX\DGFukX UI\obj\Debug\DGFukX_UI.Form1.resources
+C:\Users\georg\Desktop\DGFuks\DGFukX\DGFukX UI\obj\Debug\DGFukX_UI.Form2.resources
+C:\Users\georg\Desktop\DGFuks\DGFukX\DGFukX UI\obj\Debug\DGFukX_UI.Form3.resources
+C:\Users\georg\Desktop\DGFuks\DGFukX\DGFukX UI\obj\Debug\DGFukX_UI.Properties.Resources.resources
+C:\Users\georg\Desktop\DGFuks\DGFukX\DGFukX UI\obj\Debug\DGFukX UI.csproj.GenerateResource.cache
+C:\Users\georg\Desktop\DGFuks\DGFukX\DGFukX UI\obj\Debug\DGFukX UI.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\DGFuks\DGFukX\DGFukX UI\obj\Debug\DGFukX UI.exe
+C:\Users\georg\Desktop\DGFuks\DGFukX\DGFukX UI\obj\Debug\DGFukX UI.pdb
+C:\Users\georg\Desktop\DGFuks\DGFukX\DGFukX UI\bin\Debug\DGFukX UI.exe.config
+C:\Users\georg\Desktop\DGFuks\DGFukX\DGFukX UI\bin\Debug\DGFukX UI.exe
+C:\Users\georg\Desktop\DGFuks\DGFukX\DGFukX UI\bin\Debug\DGFukX UI.pdb
+C:\Users\georg\Desktop\DGFuks\DGFukX\DGFukX UI\bin\Debug\DGFukX CLI.pdb
+C:\Users\georg\Desktop\DGFuks\DGFukX\DGFukX UI\bin\Debug\DGFukX.pdb
