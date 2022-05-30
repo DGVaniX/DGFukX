@@ -1,0 +1,29 @@
+C:\Users\georg\Desktop\DGFuks\Original\Modified\DGFukX CLI\bin\Debug\netcoreapp3.1\DGFukX CLI.exe
+C:\Users\georg\Desktop\DGFuks\Original\Modified\DGFukX CLI\bin\Debug\netcoreapp3.1\DGFukX CLI.deps.json
+C:\Users\georg\Desktop\DGFuks\Original\Modified\DGFukX CLI\bin\Debug\netcoreapp3.1\DGFukX CLI.runtimeconfig.json
+C:\Users\georg\Desktop\DGFuks\Original\Modified\DGFukX CLI\bin\Debug\netcoreapp3.1\DGFukX CLI.runtimeconfig.dev.json
+C:\Users\georg\Desktop\DGFuks\Original\Modified\DGFukX CLI\bin\Debug\netcoreapp3.1\DGFukX CLI.dll
+C:\Users\georg\Desktop\DGFuks\Original\Modified\DGFukX CLI\bin\Debug\netcoreapp3.1\DGFukX CLI.pdb
+C:\Users\georg\Desktop\DGFuks\Original\Modified\DGFukX CLI\bin\Debug\netcoreapp3.1\DGFukX.dll
+C:\Users\georg\Desktop\DGFuks\Original\Modified\DGFukX CLI\bin\Debug\netcoreapp3.1\DGFukX.pdb
+C:\Users\georg\Desktop\DGFuks\Original\Modified\DGFukX CLI\obj\Debug\netcoreapp3.1\DGFukX CLI.csproj.AssemblyReference.cache
+C:\Users\georg\Desktop\DGFuks\Original\Modified\DGFukX CLI\obj\Debug\netcoreapp3.1\DGFukX CLI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\DGFuks\Original\Modified\DGFukX CLI\obj\Debug\netcoreapp3.1\DGFukX CLI.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\DGFuks\Original\Modified\DGFukX CLI\obj\Debug\netcoreapp3.1\DGFukX CLI.AssemblyInfo.cs
+C:\Users\georg\Desktop\DGFuks\Original\Modified\DGFukX CLI\obj\Debug\netcoreapp3.1\DGFukX CLI.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\DGFuks\Original\Modified\DGFukX CLI\obj\Debug\netcoreapp3.1\DGFukX CLI.dll
+C:\Users\georg\Desktop\DGFuks\Original\Modified\DGFukX CLI\obj\Debug\netcoreapp3.1\DGFukX CLI.pdb
+C:\Users\georg\Desktop\DGFuks\Original\Modified\DGFukX CLI\obj\Debug\netcoreapp3.1\DGFukX CLI.genruntimeconfig.cache
+C:\Users\georg\Desktop\DGFuks\DGFukX\DGFukX CLI\bin\Debug\netcoreapp3.1\DGFukX CLI.deps.json
+C:\Users\georg\Desktop\DGFuks\DGFukX\DGFukX CLI\bin\Debug\netcoreapp3.1\DGFukX CLI.dll
+C:\Users\georg\Desktop\DGFuks\DGFukX\DGFukX CLI\bin\Debug\netcoreapp3.1\DGFukX CLI.pdb
+C:\Users\georg\Desktop\DGFuks\DGFukX\DGFukX CLI\bin\Debug\netcoreapp3.1\DGFukX.dll
+C:\Users\georg\Desktop\DGFuks\DGFukX\DGFukX CLI\bin\Debug\netcoreapp3.1\DGFukX.pdb
+C:\Users\georg\Desktop\DGFuks\DGFukX\DGFukX CLI\obj\Debug\netcoreapp3.1\DGFukX CLI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\DGFuks\DGFukX\DGFukX CLI\obj\Debug\netcoreapp3.1\DGFukX CLI.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\DGFuks\DGFukX\DGFukX CLI\obj\Debug\netcoreapp3.1\DGFukX CLI.AssemblyInfo.cs
+C:\Users\georg\Desktop\DGFuks\DGFukX\DGFukX CLI\obj\Debug\netcoreapp3.1\DGFukX CLI.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\DGFuks\DGFukX\DGFukX CLI\obj\Debug\netcoreapp3.1\DGFukX CLI.dll
+C:\Users\georg\Desktop\DGFuks\DGFukX\DGFukX CLI\obj\Debug\netcoreapp3.1\DGFukX CLI.pdb
+C:\Users\georg\Desktop\DGFuks\DGFukX\DGFukX CLI\obj\Debug\netcoreapp3.1\DGFukX CLI.csproj.AssemblyReference.cache
+C:\Users\georg\Desktop\DGFuks\DGFukX\DGFukX CLI\obj\Debug\netcoreapp3.1\DGFukX CLI.csproj.CopyComplete
