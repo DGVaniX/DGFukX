@@ -1,0 +1,10 @@
+C:\Users\georg\Desktop\DGFuks\Original\Modified\DGFukX\bin\Debug\netcoreapp3.1\DGFukX.deps.json
+C:\Users\georg\Desktop\DGFuks\Original\Modified\DGFukX\bin\Debug\netcoreapp3.1\DGFukX.dll
+C:\Users\georg\Desktop\DGFuks\Original\Modified\DGFukX\bin\Debug\netcoreapp3.1\DGFukX.pdb
+C:\Users\georg\Desktop\DGFuks\Original\Modified\DGFukX\obj\Debug\netcoreapp3.1\DGFukX.csproj.AssemblyReference.cache
+C:\Users\georg\Desktop\DGFuks\Original\Modified\DGFukX\obj\Debug\netcoreapp3.1\DGFukX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\DGFuks\Original\Modified\DGFukX\obj\Debug\netcoreapp3.1\DGFukX.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\DGFuks\Original\Modified\DGFukX\obj\Debug\netcoreapp3.1\DGFukX.AssemblyInfo.cs
+C:\Users\georg\Desktop\DGFuks\Original\Modified\DGFukX\obj\Debug\netcoreapp3.1\DGFukX.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\DGFuks\Original\Modified\DGFukX\obj\Debug\netcoreapp3.1\DGFukX.dll
+C:\Users\georg\Desktop\DGFuks\Original\Modified\DGFukX\obj\Debug\netcoreapp3.1\DGFukX.pdb
