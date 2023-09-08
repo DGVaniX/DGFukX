@@ -1,4 +1,4 @@
-# DGFuks
+# DGFukX
 [UNFINISHED] IronBrew2 (VM) based Lua obfuscator with GUI
 
 ![Main](https://user-images.githubusercontent.com/37979538/170981164-a057711a-76fd-409a-ad34-0d71a947485e.png)
